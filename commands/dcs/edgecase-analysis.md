@@ -1,7 +1,7 @@
 ---
 description: システムの各レイヤーにおける包括的なエッジケース・エラー状態を詳細に分析し、見落としがちな異常系シナリオを洗い出します
 allowed-tools: Read, Glob, Grep, Task, Write, Edit, TodoWrite, AskUserQuestion
-argument-hint: [要件名]
+argument-hint: "[要件名]"
 ---
 システムの各レイヤーにおける包括的なエッジケース・エラー状態を分析します。アプリケーション・UI・データ・ネットワーク・非同期・認証などの各層で発生する複合的なエッジケースを詳細に洗い出します。
 
